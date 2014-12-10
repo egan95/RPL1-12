@@ -17,6 +17,7 @@ public class RPL {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("ok");
+        System.out.print("yes");
     }
     
 }
